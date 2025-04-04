@@ -28,7 +28,7 @@ CSS – for styling the interface and ensuring responsiveness
 JavaScript – for adding interactivity, form validation, and dynamic behaviors
 
 
-Purpose & Learning Outcomes
+# Purpose & Learning Outcomes
 
 The purpose of this project was to apply the frontend concepts learned during my bridge course in a real-world scenario. Through this project, I gained hands-on experience in:
 
@@ -41,7 +41,7 @@ Applying CSS for styling and positioning
 Implementing basic JavaScript for form validation and UI interactions
 
 
-Future Improvements
+# Future Improvements
 
 While this version focuses on the frontend, future iterations of the project could include:
 
